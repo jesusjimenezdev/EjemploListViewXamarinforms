@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4224629D-D1B2-40FC-87F5-315547A65226}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListasDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3364E0E6-32FE-4825-ADAA-97F266F25474" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListasDemo/ListasDemo/ViewModel/MainPageViewModel.cs">
+    <Files>
+      <File FileName="ListasDemo/ListasDemo/Model/Friend.cs" Line="9" Column="24" />
+      <File FileName="ListasDemo/ListasDemo/ViewModel/MainPageViewModel.cs" Line="18" Column="66" />
+      <File FileName="ListasDemo/ListasDemo/MainPage.xaml" Line="7" Column="41" />
+      <File FileName="ListasDemo/ListasDemo/DesignTimeData.json" Line="1" Column="1" />
+      <File FileName="ListasDemo/ListasDemo/Model/FriendRepository.cs" Line="14" Column="37" />
+      <File FileName="ListasDemo/ListasDemo/MainPage.xaml.cs" Line="16" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ListasDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
